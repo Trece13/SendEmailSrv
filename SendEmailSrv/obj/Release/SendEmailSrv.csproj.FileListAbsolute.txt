@@ -1,0 +1,12 @@
+C:\Users\juanc\source\repos\SendEmailSrv\SendEmailSrv\bin\SendEmailSrv.dll.config
+C:\Users\juanc\source\repos\SendEmailSrv\SendEmailSrv\bin\SendEmailSrv.dll
+C:\Users\juanc\source\repos\SendEmailSrv\SendEmailSrv\bin\SendEmailSrv.pdb
+C:\Users\juanc\source\repos\SendEmailSrv\SendEmailSrv\obj\Release\SendEmailSrv.csproj.CoreCompileInputs.cache
+C:\Users\juanc\source\repos\SendEmailSrv\SendEmailSrv\obj\Release\SendEmailSrv.dll
+C:\Users\juanc\source\repos\SendEmailSrv\SendEmailSrv\obj\Release\SendEmailSrv.pdb
+C:\Users\juanc\source\repos\SendEmailSrv\SendEmailSrv\obj\Release\SendEmailSrv.csprojAssemblyReference.cache
+C:\Users\Md\Desktop\SendEmailSrv\SendEmailSrv\bin\SendEmailSrv.dll.config
+C:\Users\Md\Desktop\SendEmailSrv\SendEmailSrv\bin\SendEmailSrv.dll
+C:\Users\Md\Desktop\SendEmailSrv\SendEmailSrv\bin\SendEmailSrv.pdb
+C:\Users\Md\Desktop\SendEmailSrv\SendEmailSrv\obj\Release\SendEmailSrv.dll
+C:\Users\Md\Desktop\SendEmailSrv\SendEmailSrv\obj\Release\SendEmailSrv.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Md\Desktop\SendEmailSrv\SendEmailSrv\bin\app.publish\</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/SendEmailSrv.dll">
+      <publishTime>10/04/2022 12:43:01</publishTime>
+    </File>
+    <File Include="bin/SendEmailSrv.pdb">
+      <publishTime>09/19/2022 09:20:15</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>09/19/2022 08:06:49</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/04/2022 12:43:02</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
