@@ -11,3 +11,9 @@ C:\Users\Md\Desktop\SendEmailSrv\SendEmailSrv\bin\SendEmailSrv.pdb
 C:\Users\Md\Desktop\SendEmailSrv\SendEmailSrv\obj\Debug\SendEmailSrv.csprojResolveAssemblyReference.cache
 C:\Users\Md\Desktop\SendEmailSrv\SendEmailSrv\obj\Debug\SendEmailSrv.dll
 C:\Users\Md\Desktop\SendEmailSrv\SendEmailSrv\obj\Debug\SendEmailSrv.pdb
+C:\Users\Md\Downloads\SendEmailSrv\SendEmailSrv\obj\Debug\SendEmailSrv.csprojResolveAssemblyReference.cache
+C:\Users\Md\Downloads\SendEmailSrv\SendEmailSrv\obj\Debug\SendEmailSrv.dll
+C:\Users\Md\Downloads\SendEmailSrv\SendEmailSrv\obj\Debug\SendEmailSrv.pdb
+C:\Users\Md\Downloads\SendEmailSrv\SendEmailSrv\bin\SendEmailSrv.dll.config
+C:\Users\Md\Downloads\SendEmailSrv\SendEmailSrv\bin\SendEmailSrv.dll
+C:\Users\Md\Downloads\SendEmailSrv\SendEmailSrv\bin\SendEmailSrv.pdb
